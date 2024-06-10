@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor/ios",
+  "name": "@capacitor_ferrumblood/ios",
   "version": "5.7.4",
   "description": "Capacitor: Cross-platform apps with JavaScript and the web",
   "homepage": "https://capacitorjs.com",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor.git"
+    "url": "git+https://github.com/ferrumblood/capacitor.git"
   },
   "bugs": {
     "url": "https://github.com/ionic-team/capacitor/issues"
