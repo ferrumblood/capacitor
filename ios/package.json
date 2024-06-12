@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor_ferrumblood/ios",
+  "name": "capacitor_ferrumblood_ios",
   "version": "5.7.4",
   "description": "Capacitor: Cross-platform apps with JavaScript and the web",
   "homepage": "https://capacitorjs.com",
@@ -29,5 +29,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "main": "index.js"
 }
